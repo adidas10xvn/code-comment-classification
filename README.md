@@ -8,7 +8,7 @@ Details on how to participate in the competition are found [here](https://colab.
 
 ## Dataset
 
-The dataset is accessed at the path: {language}_input_{language}.csv.
+The dataset is accessed at the path: {language}/input/{language}.csv.
 
 ## Train And Evaluate Models
 
