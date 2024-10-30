@@ -6,6 +6,10 @@ Participants of the competition must use the provided data to train/test their c
 
 Details on how to participate in the competition are found [here](https://colab.research.google.com/drive/1cW8iUPY9rTjZdXnGYtJ4ARBSISyKieWt#scrollTo=7ITz0v7mv4jV).
 
+## Dataset
+
+The dataset is accessed at the path: {language}/input/{language}.csv.
+
 ## Train And Evaluate Models
 
 The train and eval model files are located in the models directory.
